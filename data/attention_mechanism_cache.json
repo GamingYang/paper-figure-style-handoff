@@ -1,0 +1,23 @@
+{
+  "model": "adaptive-attention-v1",
+  "seed": 42,
+  "split": "Batch10 target_test",
+  "purpose": "Frozen post-hoc visualization only; no training or model selection",
+  "checkpoint_source": "C:\\Users\\ROG\\Desktop\\paper\\codex\\adaptive-attention-v1\\adaptive-attention-v1-seed42\\adaptive-attention-v1-seed42_best.pt",
+  "checkpoint_sha256": "5feb8c73316fc82bac934a0910c721a0c9654bb9281f5629ccb789bc348dd5c3",
+  "extraction_source": "C:\\Users\\ROG\\Desktop\\paper\\codex\\adaptive-attention-v1\\run_adaptive_attention_v1.py",
+  "torch_version": "2.9.1+cu128",
+  "device": "cuda",
+  "n_samples": 14556,
+  "n_tokens": 25,
+  "stage_definition": "p_norm=cycle/3000; Early<1/3; Middle in [1/3,2/3); Late>=2/3",
+  "surface_definition": "Historical conditional surrogate: pooled attention context is fed to hidden_proj; other curve coordinate fixed at late-stage attention-weighted center; each surface independently min-max normalized.",
+  "limitations": [
+    "Not RMSE optimization or hyperparameter search",
+    "Not softmax attention probability",
+    "Pooled context is not a token hidden state",
+    "Separate min-max normalization prevents absolute cross-surface comparison",
+    "Synthetic feature combinations need not lie on observed voltage curves",
+    "Historical last cycle bin excludes its maximum boundary"
+  ]
+}

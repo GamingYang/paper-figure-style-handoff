@@ -1,0 +1,7 @@
+matplotlib==3.10.0
+numpy==2.1.3
+pandas==2.2.3
+Pillow==11.1.0
+
+# Optional extraction only: torch 2.9.1+cu128 was used on the source machine.
+# Rendering the packaged CSV/NPZ data does not import or require torch.

@@ -1,0 +1,206 @@
+[
+  {
+    "source": "C:\\Users\\ROG\\Desktop\\paper\\codex\\section4-5-new-attention-ablation-figures-v1\\plot_stagewise_pentagon_radar_reference_style.py",
+    "bundled": "originals/scripts/plot_stagewise_pentagon_radar_reference_style.py",
+    "bytes": 9844,
+    "sha256": "86d5d5e68b701add2d9c078ad2b8ae6de62eb61cc07350f80547e6d82aa144b6"
+  },
+  {
+    "source": "C:\\Users\\ROG\\Desktop\\paper\\codex\\section4-5-new-attention-ablation-figures-v1\\plot_section4_5_new_attention_ablation_figures.py",
+    "bundled": "originals/scripts/plot_section4_5_new_attention_ablation_figures.py",
+    "bytes": 25550,
+    "sha256": "babdb8bd8edf230d7308541604d6281175bceaf3b2eda115fe88cd9746f106ef"
+  },
+  {
+    "source": "C:\\Users\\ROG\\Desktop\\paper\\codex\\adaptive-attention-mechanism-ablation-v1\\plot_adaptive_attention_mechanism_response_surface.py",
+    "bundled": "originals/scripts/plot_adaptive_attention_mechanism_response_surface.py",
+    "bytes": 19249,
+    "sha256": "dea51cc8bac6ccd88029ed924a71f8c19440a17f4529258110411af48bd1c323"
+  },
+  {
+    "source": "C:\\Users\\ROG\\Desktop\\paper\\codex\\adaptive-attention-mechanism-ablation-v1\\visualize_attention_mechanism_ablation_v1.py",
+    "bundled": "originals/scripts/visualize_attention_mechanism_ablation_v1.py",
+    "bytes": 16395,
+    "sha256": "2d0ddbec47361f5df09958a1ffd07c3e82e795ef4280b0331fb989c500142f5f"
+  },
+  {
+    "source": "C:\\Users\\ROG\\Desktop\\paper\\codex\\section4-5-new-attention-ablation-figures-v1\\source_data\\fig4_5a_effect_map_source.csv",
+    "bundled": "data/fig4_5a_effect_map_source.csv",
+    "bytes": 1934,
+    "sha256": "5f20369b2609262587f69b2b76e0d9f0693a8e44b187b7bf8d2c93f76a8978c4"
+  },
+  {
+    "source": "C:\\Users\\ROG\\Desktop\\paper\\codex\\section4-5-new-attention-ablation-figures-v1\\source_data\\fig4_5b_stage_profile_pentagon_source.csv",
+    "bundled": "data/fig4_5b_stage_profile_pentagon_source.csv",
+    "bytes": 2322,
+    "sha256": "06f1a59226ba2dc75248f416d5f96ce8cdabdb0b19dc636dd6fb9904722dd632"
+  },
+  {
+    "source": "C:\\Users\\ROG\\Desktop\\paper\\codex\\section4-5-new-attention-ablation-figures-v1\\source_data\\fig4_5b_stage_radar_source.csv",
+    "bundled": "data/fig4_5b_stage_radar_source.csv",
+    "bytes": 1431,
+    "sha256": "b3808ed12843d3f738816f4cae380c9eca96096172807a88b7937cbf483f4046"
+  },
+  {
+    "source": "C:\\Users\\ROG\\Desktop\\paper\\codex\\section4-5-new-attention-ablation-figures-v1\\source_data\\fig4_5c_multiseed_cell_violin_source.csv",
+    "bundled": "data/fig4_5c_multiseed_cell_violin_source.csv",
+    "bytes": 10421,
+    "sha256": "7847c8f837083b49d2cb49af871a027be8512eb60256378ccf861ae7a5c8feb5"
+  },
+  {
+    "source": "C:\\Users\\ROG\\Desktop\\paper\\codex\\section4-5-new-attention-ablation-figures-v1\\source_data\\fig4_5c_multiseed_seed_points_source.csv",
+    "bundled": "data/fig4_5c_multiseed_seed_points_source.csv",
+    "bytes": 1664,
+    "sha256": "954d81c797f35408f844dec868019f9b045333f0457a0173a1d2025ae90471bc"
+  },
+  {
+    "source": "C:\\Users\\ROG\\Desktop\\paper\\codex\\adaptive-attention-mechanism-ablation-v1\\attention_mechanism_seed42_per_cell_long.csv",
+    "bundled": "data/attention_mechanism_seed42_per_cell_long.csv",
+    "bytes": 4992,
+    "sha256": "f5e0740ed5f596cdb4f8d6514101565b9201fecf77e5732619ec6d53fca02bfd"
+  },
+  {
+    "source": "C:\\Users\\ROG\\Desktop\\paper\\codex\\adaptive-attention-mechanism-ablation-v1\\attention_ablation_all_evidence_aggregate.csv",
+    "bundled": "data/attention_ablation_all_evidence_aggregate.csv",
+    "bytes": 2808,
+    "sha256": "d79c2ff4039525a25fda3952d61e38101802bc210d780a74faa18a56a98abcae"
+  },
+  {
+    "source": "C:\\Users\\ROG\\Desktop\\paper\\codex\\adaptive-attention-mechanism-ablation-v1\\attention_mechanism_seed42_stage_interpretability_long.csv",
+    "bundled": "data/attention_mechanism_seed42_stage_interpretability_long.csv",
+    "bytes": 3354,
+    "sha256": "91dafcb03ac55f41eb965848d8d36e9f9dd19e7e214cc7b488a9da6a4eb3cf84"
+  },
+  {
+    "source": "C:\\Users\\ROG\\Desktop\\paper\\codex\\adaptive-attention-v1\\adaptive_attention_v1_seed42_target_test_predictions.csv",
+    "bundled": "data/adaptive_attention_v1_seed42_target_test_predictions.csv",
+    "bytes": 1308381,
+    "sha256": "86149604f6239476ad6a2034ff7e58d47f2e2030172490618b31c3b3d0edd1cc"
+  },
+  {
+    "source": "C:\\Users\\ROG\\Desktop\\paper\\codex\\adaptive-attention-mechanism-ablation-v1\\attention_mechanism_response_surface_source\\attention_weighted_stage_centers.csv",
+    "bundled": "data/mechanism_tables/attention_weighted_stage_centers.csv",
+    "bytes": 477,
+    "sha256": "27e7dca4bec46ab776d011d1b4bb3c9bb2b8da958711b820868fb2f69b266a50"
+  },
+  {
+    "source": "C:\\Users\\ROG\\Desktop\\paper\\codex\\adaptive-attention-mechanism-ablation-v1\\attention_mechanism_response_surface_source\\late_stage_top_attention_curve_tokens.csv",
+    "bundled": "data/mechanism_tables/late_stage_top_attention_curve_tokens.csv",
+    "bytes": 22136,
+    "sha256": "a16b00f68249544ef7a3efb49b56c7aa69d706cc2ca01e56fb2efe326aa8e0e8"
+  },
+  {
+    "source": "C:\\Users\\ROG\\Desktop\\paper\\codex\\adaptive-attention-mechanism-ablation-v1\\attention_mechanism_response_surface_source\\stage_attention_profiles.csv",
+    "bundled": "data/mechanism_tables/stage_attention_profiles.csv",
+    "bytes": 2325,
+    "sha256": "3d970db0a908a4786564d2ccb6b16ed8f5285d31104ea62915637a26709d163e"
+  },
+  {
+    "source": "C:\\Users\\ROG\\Desktop\\paper\\codex\\adaptive-attention-mechanism-ablation-v1\\attention_mechanism_response_surface_source\\temperature_entropy_by_cycle_bin.csv",
+    "bundled": "data/mechanism_tables/temperature_entropy_by_cycle_bin.csv",
+    "bytes": 791,
+    "sha256": "716bf22721763c8e4adc65229c4fee88a96710e5c3fa06891f36900f8b59f1f3"
+  },
+  {
+    "source": "C:\\Users\\ROG\\Desktop\\paper\\codex\\section4-5-new-attention-ablation-figures-v1\\figures\\fig4_5a_ablation_static_mmd_effect_map.png",
+    "bundled": "originals/figures/fig4_5a_ablation_static_mmd_effect_map.png",
+    "bytes": 295514,
+    "sha256": "41676d3e7911bbfbd11f4498582aa7b742590191e709c46a702e076d98a7e0bd"
+  },
+  {
+    "source": "C:\\Users\\ROG\\Desktop\\paper\\codex\\section4-5-new-attention-ablation-figures-v1\\figures\\fig4_5a_ablation_static_mmd_effect_map.pdf",
+    "bundled": "originals/figures/fig4_5a_ablation_static_mmd_effect_map.pdf",
+    "bytes": 44832,
+    "sha256": "22379a1e081371c1fbd9551d2f2659cc4f7354c9d8f222be01a37cffeeeb06b0"
+  },
+  {
+    "source": "C:\\Users\\ROG\\Desktop\\paper\\codex\\section4-5-new-attention-ablation-figures-v1\\figures\\fig4_5b_stagewise_rmse_radar.png",
+    "bundled": "originals/figures/fig4_5b_stagewise_rmse_radar.png",
+    "bytes": 1112549,
+    "sha256": "58e4e92c13897208a2dce4e981b725966d1bda0bd5e888c41302a56314665624"
+  },
+  {
+    "source": "C:\\Users\\ROG\\Desktop\\paper\\codex\\section4-5-new-attention-ablation-figures-v1\\figures\\fig4_5b_stagewise_rmse_radar.pdf",
+    "bundled": "originals/figures/fig4_5b_stagewise_rmse_radar.pdf",
+    "bytes": 77619,
+    "sha256": "b236cd0ba37acf2e658eccf69646d9a1de785d47dca86287602b1f3b17d071ab"
+  },
+  {
+    "source": "C:\\Users\\ROG\\Desktop\\paper\\codex\\section4-5-new-attention-ablation-figures-v1\\figures\\fig4_5b_stagewise_rmse_radar_horizontal.png",
+    "bundled": "originals/figures/fig4_5b_stagewise_rmse_radar_horizontal.png",
+    "bytes": 1011127,
+    "sha256": "a2b5ba1021efa24e1308f4a09baabefdbb127db07eab175c473cf8f990c5aacc"
+  },
+  {
+    "source": "C:\\Users\\ROG\\Desktop\\paper\\codex\\section4-5-new-attention-ablation-figures-v1\\figures\\fig4_5b_stagewise_rmse_radar_horizontal.pdf",
+    "bundled": "originals/figures/fig4_5b_stagewise_rmse_radar_horizontal.pdf",
+    "bytes": 77533,
+    "sha256": "8f2435d83a8aacc416bc8db4463775b68503710361783996fa77819f7c205e05"
+  },
+  {
+    "source": "C:\\Users\\ROG\\Desktop\\paper\\codex\\section4-5-new-attention-ablation-figures-v1\\figures\\fig4_5c_multiseed_stability_violin.png",
+    "bundled": "originals/figures/fig4_5c_multiseed_stability_violin.png",
+    "bytes": 428772,
+    "sha256": "b0c29a69be685bd3ab27199c09ad1c733bfd18e9658b66238e414caf1270ec7e"
+  },
+  {
+    "source": "C:\\Users\\ROG\\Desktop\\paper\\codex\\section4-5-new-attention-ablation-figures-v1\\figures\\fig4_5c_multiseed_stability_violin.pdf",
+    "bundled": "originals/figures/fig4_5c_multiseed_stability_violin.pdf",
+    "bytes": 53475,
+    "sha256": "7bc60d0031f796f6dd522239228ae9be76a3da5efc7d180a34a9786c3ca169cb"
+  },
+  {
+    "source": "C:\\Users\\ROG\\Desktop\\paper\\codex\\adaptive-attention-mechanism-ablation-v1\\figures\\fig01_batch10_mechanism_ablation_radar_small_multiples.png",
+    "bundled": "originals/figures/fig01_batch10_mechanism_ablation_radar_small_multiples.png",
+    "bytes": 390842,
+    "sha256": "b40b846361933f7987210517ac8a5ffd9e61587aea7fd4a32a095e808c8b91b3"
+  },
+  {
+    "source": "C:\\Users\\ROG\\Desktop\\paper\\codex\\adaptive-attention-mechanism-ablation-v1\\figures\\fig02_adaptive_v1_seed42_per_cell_rmse_mae.png",
+    "bundled": "originals/figures/fig02_adaptive_v1_seed42_per_cell_rmse_mae.png",
+    "bytes": 99210,
+    "sha256": "6c15f0990ffc4cd4b925f736cb059d2462108a268c56b8adb31b65c5d8afc00f"
+  },
+  {
+    "source": "C:\\Users\\ROG\\Desktop\\paper\\codex\\adaptive-attention-mechanism-ablation-v1\\figures\\fig03_batch10_final_model_prediction_curves.png",
+    "bundled": "originals/figures/fig03_batch10_final_model_prediction_curves.png",
+    "bytes": 242603,
+    "sha256": "15eea4ba1f4cb241e21846d0637d4bc48169b48e1865e1aa36d4729844e312b1"
+  },
+  {
+    "source": "C:\\Users\\ROG\\Desktop\\paper\\codex\\adaptive-attention-mechanism-ablation-v1\\figures\\fig04_three_seed_attention_mechanism_summary.png",
+    "bundled": "originals/figures/fig04_three_seed_attention_mechanism_summary.png",
+    "bytes": 109563,
+    "sha256": "cf1bcb116b019ef896e4879f20cdf539595522145fb584a7075ac87e73014961"
+  },
+  {
+    "source": "C:\\Users\\ROG\\Desktop\\paper\\codex\\adaptive-attention-mechanism-ablation-v1\\figures\\fig05_seed42_attention_stage_interpretability.png",
+    "bundled": "originals/figures/fig05_seed42_attention_stage_interpretability.png",
+    "bytes": 245753,
+    "sha256": "fdbed5f7122e0a7ec562ede7778f9f7b88061dc50f17934f0bb48e9df3a8ddab"
+  },
+  {
+    "source": "C:\\Users\\ROG\\Desktop\\paper\\codex\\adaptive-attention-mechanism-ablation-v1\\figures\\fig06_adaptive_attention_mechanism_response_surface.png",
+    "bundled": "originals/figures/fig06_adaptive_attention_mechanism_response_surface.png",
+    "bytes": 898693,
+    "sha256": "b87358d2500221ceed70e85adec765fd20178d880f02fa2f034799cb3d9b80ae"
+  },
+  {
+    "source": "C:\\Users\\ROG\\Desktop\\paper\\codex\\section4-5-new-attention-ablation-figures-v1\\SECTION_4_5_NEW_ATTENTION_FIGURE_NOTES_20260729.md",
+    "bundled": "originals/notes/SECTION_4_5_NEW_ATTENTION_FIGURE_NOTES_20260729.md",
+    "bytes": 915,
+    "sha256": "ea32dff3aeb2335e32c35de6abc6a244f146df74a02d2e58c3917ae2fc01c988"
+  },
+  {
+    "source": "C:\\Users\\ROG\\Desktop\\paper\\codex\\section4-5-new-attention-ablation-figures-v1\\SECTION_4_5_REVISED_TEXT_AND_CAPTIONS_20260729.md",
+    "bundled": "originals/notes/SECTION_4_5_REVISED_TEXT_AND_CAPTIONS_20260729.md",
+    "bytes": 6284,
+    "sha256": "476af1177acf110900a50bebd512b5dd5226ddab0b3f5ae8ef3130df443606e0"
+  },
+  {
+    "source": "C:\\Users\\ROG\\Desktop\\paper\\codex\\adaptive-attention-mechanism-ablation-v1\\fig06_attention_mechanism_caption_text_zh.txt",
+    "bundled": "originals/notes/fig06_attention_mechanism_caption_text_zh.txt",
+    "bytes": 1047,
+    "sha256": "10e212947da7fb9263ba8e2d5928daecdbf62ece2ed59ae9ef89362515a2d882"
+  }
+]

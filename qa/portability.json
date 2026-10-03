@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "relocated_root": "C:\\Users\\ROG\\AppData\\Local\\Temp\\paper-figure-style-smoke-u8t50jah",
+  "python": "D:\\Anaconda\\python.exe",
+  "returncode": 0,
+  "png_count": 9,
+  "stdout": "Font: C:\\Windows\\Fonts\\times.ttf\nSaved radar_horizontal: 0 text overlap candidates\nSaved radar_vertical: 0 text overlap candidates\nSaved attention_mechanism: 0 text overlap candidates\nSaved ablation_effect_map: 0 text overlap candidates\nSaved cell_seed_violin: 0 text overlap candidates\nSaved bar_error_labels: 0 text overlap candidates\nSaved per_cell_error: 0 text overlap candidates\nSaved prediction_curves: 0 text overlap candidates\nSaved per_cell_polar_bars: 0 text overlap candidates\n",
+  "stderr": "",
+  "scope": "Bundled CSV/NPZ rendering in a new directory; no checkpoint or training files copied.",
+  "cleanup": "Temporary test directory is retained for inspection; no deletion performed."
+}

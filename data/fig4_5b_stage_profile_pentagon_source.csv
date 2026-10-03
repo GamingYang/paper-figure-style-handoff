@@ -1,0 +1,41 @@
+﻿label,source,axis,rmse_pct
+Proposed,final-control,Early,0.40825352143633
+Proposed,final-control,Middle,1.34641785597992
+Proposed,final-control,Late,2.1747848612906
+Proposed,final-control,Overall,0.9906127235971199
+Proposed,final-control,Macro,0.8763665369169201
+static MMD,final-control,Early,0.43693525227224
+static MMD,final-control,Middle,1.36784210125292
+static MMD,final-control,Late,2.41151805283955
+static MMD,final-control,Overall,1.02242501764545
+static MMD,final-control,Macro,0.91435596458091
+w/o adaptive MMD,final-control,Early,0.46349785018718
+w/o adaptive MMD,final-control,Middle,1.5017144832570302
+w/o adaptive MMD,final-control,Late,1.81657772660003
+w/o adaptive MMD,final-control,Overall,1.08295746694132
+w/o adaptive MMD,final-control,Macro,0.9338686218577801
+w/o physical base,final-control,Early,0.8522505652003101
+w/o physical base,final-control,Middle,2.22114544036538
+w/o physical base,final-control,Late,3.31738023186122
+w/o physical base,final-control,Overall,1.6633784833992
+w/o physical base,final-control,Macro,1.5894765890459899
+Original attention,mechanism-control,Early,0.36610084862521997
+Original attention,mechanism-control,Middle,1.2650845581462
+Original attention,mechanism-control,Late,2.55315275711065
+Original attention,mechanism-control,Overall,1.0380932157615401
+Original attention,mechanism-control,Macro,0.9170674002785401
+w/o degradation state,mechanism-control,Early,0.39658107437087997
+w/o degradation state,mechanism-control,Middle,1.47797664638969
+w/o degradation state,mechanism-control,Late,2.2764671071691103
+w/o degradation state,mechanism-control,Overall,1.07896099384156
+w/o degradation state,mechanism-control,Macro,0.97057606119651
+w/o curve tokens,mechanism-control,Early,0.41730212443905
+w/o curve tokens,mechanism-control,Middle,1.50897330823957
+w/o curve tokens,mechanism-control,Late,2.15971581396717
+w/o curve tokens,mechanism-control,Overall,1.0952359230896
+w/o curve tokens,mechanism-control,Macro,0.94499913105739
+fixed temperature,mechanism-control,Early,0.39717610038776
+fixed temperature,mechanism-control,Middle,1.67227908360974
+fixed temperature,mechanism-control,Late,2.06852433808267
+fixed temperature,mechanism-control,Overall,1.18294488069394
+fixed temperature,mechanism-control,Macro,1.02354753537487

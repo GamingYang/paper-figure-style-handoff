@@ -1,0 +1,26 @@
+{
+  "font": "Times New Roman",
+  "font_size": 8,
+  "dpi": 600,
+  "formats": ["png", "pdf", "svg"],
+  "line_width": 1.5,
+  "spine_width": 0.8,
+  "grid_color": "#E5E5E5",
+  "radar_fill_alpha": 0.10,
+  "palette": {
+    "Proposed": "#12A7C9",
+    "static MMD": "#66BD9D",
+    "w/o adaptive MMD": "#B95CE5",
+    "w/o degradation state": "#39B56B",
+    "w/o curve tokens": "#F26A5B",
+    "fixed temperature": "#7C6FE3",
+    "Original attention": "#E9AA31",
+    "w/o physical base": "#E84C4F",
+    "cycle-only state": "#65AB94",
+    "shuffled state": "#858BA0",
+    "voltage-only token": "#69BD98"
+  },
+  "stages": {"Early": "#258D86", "Middle": "#398AC0", "Late": "#6B47C6"},
+  "attention_colors": ["#687E91", "#F28E2B"],
+  "surface_cmap": "YlGnBu_r"
+}

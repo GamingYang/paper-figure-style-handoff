@@ -1,0 +1,147 @@
+{
+  "historical_files_verified": 34,
+  "seed_cell_structure": {
+    "Original attention": {
+      "seeds": [
+        7,
+        42,
+        123
+      ],
+      "n_cell_seed": 24,
+      "n_cells": 8
+    },
+    "Proposed": {
+      "seeds": [
+        7,
+        42,
+        123
+      ],
+      "n_cell_seed": 24,
+      "n_cells": 8
+    },
+    "fixed temperature": {
+      "seeds": [
+        7,
+        42,
+        123
+      ],
+      "n_cell_seed": 24,
+      "n_cells": 8
+    },
+    "w/o adaptive MMD": {
+      "seeds": [
+        7,
+        42,
+        123
+      ],
+      "n_cell_seed": 24,
+      "n_cells": 8
+    },
+    "w/o curve tokens": {
+      "seeds": [
+        7,
+        42,
+        123
+      ],
+      "n_cell_seed": 24,
+      "n_cells": 8
+    },
+    "w/o degradation state": {
+      "seeds": [
+        7,
+        42,
+        123
+      ],
+      "n_cell_seed": 24,
+      "n_cells": 8
+    },
+    "w/o physical base": {
+      "seeds": [
+        7,
+        42,
+        123
+      ],
+      "n_cell_seed": 24,
+      "n_cells": 8
+    }
+  },
+  "proposed_mean_rmse_pct": 0.99061272359712,
+  "figure_count": 9,
+  "layouts": {
+    "radar_horizontal": {
+      "text_pair_overlap_candidates": [],
+      "text_count": 93,
+      "font_families": [
+        "['Times New Roman']"
+      ],
+      "note": "Geometric screening only; inspect the exported PNG and PDF for line/legend/colorbar interference."
+    },
+    "radar_vertical": {
+      "text_pair_overlap_candidates": [],
+      "text_count": 93,
+      "font_families": [
+        "['Times New Roman']"
+      ],
+      "note": "Geometric screening only; inspect the exported PNG and PDF for line/legend/colorbar interference."
+    },
+    "attention_mechanism": {
+      "text_pair_overlap_candidates": [],
+      "text_count": 103,
+      "font_families": [
+        "['Times New Roman']"
+      ],
+      "note": "Geometric screening only; inspect the exported PNG and PDF for line/legend/colorbar interference."
+    },
+    "ablation_effect_map": {
+      "text_pair_overlap_candidates": [],
+      "text_count": 27,
+      "font_families": [
+        "['Times New Roman']"
+      ],
+      "note": "Geometric screening only; inspect the exported PNG and PDF for line/legend/colorbar interference."
+    },
+    "cell_seed_violin": {
+      "text_pair_overlap_candidates": [],
+      "text_count": 18,
+      "font_families": [
+        "['Times New Roman']"
+      ],
+      "note": "Geometric screening only; inspect the exported PNG and PDF for line/legend/colorbar interference."
+    },
+    "bar_error_labels": {
+      "text_pair_overlap_candidates": [],
+      "text_count": 26,
+      "font_families": [
+        "['Times New Roman']"
+      ],
+      "note": "Geometric screening only; inspect the exported PNG and PDF for line/legend/colorbar interference."
+    },
+    "per_cell_error": {
+      "text_pair_overlap_candidates": [],
+      "text_count": 36,
+      "font_families": [
+        "['Times New Roman']"
+      ],
+      "note": "Geometric screening only; inspect the exported PNG and PDF for line/legend/colorbar interference."
+    },
+    "prediction_curves": {
+      "text_pair_overlap_candidates": [],
+      "text_count": 62,
+      "font_families": [
+        "['Times New Roman']"
+      ],
+      "note": "Geometric screening only; inspect the exported PNG and PDF for line/legend/colorbar interference."
+    },
+    "per_cell_polar_bars": {
+      "text_pair_overlap_candidates": [],
+      "text_count": 104,
+      "font_families": [
+        "['Times New Roman']"
+      ],
+      "note": "Geometric screening only; inspect the exported PNG and PDF for line/legend/colorbar interference."
+    }
+  },
+  "errors": [],
+  "status": "PASS",
+  "scope": "Data/typography/file checks. Manual visual review remains required."
+}

@@ -1,0 +1,31 @@
+﻿label,category,stage,rmse_pct
+Proposed,full,Early,0.40825352143633
+Proposed,full,Middle,1.34641785597992
+Proposed,full,Late,2.1747848612906
+static MMD,mmd,Early,0.43693525227224
+static MMD,mmd,Middle,1.36784210125292
+static MMD,mmd,Late,2.41151805283955
+w/o adaptive MMD,mmd,Early,0.46349785018718
+w/o adaptive MMD,mmd,Middle,1.5017144832570302
+w/o adaptive MMD,mmd,Late,1.81657772660003
+w/o physical base,structure,Early,0.8522505652003101
+w/o physical base,structure,Middle,2.22114544036538
+w/o physical base,structure,Late,3.31738023186122
+w/o degradation state,state,Early,0.39658107437087997
+w/o degradation state,state,Middle,1.47797664638969
+w/o degradation state,state,Late,2.2764671071691103
+cycle-only state,state,Early,0.38051651353621
+cycle-only state,state,Middle,1.41552224551573
+cycle-only state,state,Late,2.29129446226539
+shuffled state,state,Early,0.39566897811002005
+shuffled state,state,Middle,1.41986234666361
+shuffled state,state,Late,1.67365811842453
+w/o curve tokens,curve,Early,0.41730212443905
+w/o curve tokens,curve,Middle,1.50897330823957
+w/o curve tokens,curve,Late,2.15971581396717
+voltage-only token,curve,Early,0.404296977863
+voltage-only token,curve,Middle,1.21885934806676
+voltage-only token,curve,Late,2.0844819627031197
+fixed temperature,focus,Early,0.39717610038776
+fixed temperature,focus,Middle,1.67227908360974
+fixed temperature,focus,Late,2.06852433808267

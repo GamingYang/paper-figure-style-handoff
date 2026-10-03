@@ -1,0 +1,5 @@
+图注建议：
+该图展示了退化状态引导曲线注意力机制的内部响应。a，代表性电压曲线 token 的注意力强度以曲线颜色编码，颜色越偏橙表示局部注意力越强。b，不同退化阶段的平均注意力分布，晚期阶段的注意力峰值更加集中。c，随循环归一化位置增加，注意力温度和熵整体下降，表明模型在退化加剧时采用更尖锐的聚焦策略。d-f，在固定晚期退化状态和隐藏上下文后，展示电压水平 V、斜率 ΔV 与曲率 Δ²V 对注意力兼容性的响应面；橙色点为注意力加权中心。
+
+正文表述建议：
+The adaptive attention mechanism does not assign static temporal weights. Instead, the degradation state regulates the attention temperature, leading to lower entropy and sharper attention peaks in the late degradation stage. The response surfaces further indicate that the learned attention is associated with local voltage morphology, especially the joint variation of voltage level, slope and curvature.

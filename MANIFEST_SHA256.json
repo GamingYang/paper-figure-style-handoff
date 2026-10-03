@@ -1,0 +1,467 @@
+[
+  {
+    "path": "data/adaptive_attention_v1_seed42_target_test_predictions.csv",
+    "bytes": 1308381,
+    "sha256": "86149604f6239476ad6a2034ff7e58d47f2e2030172490618b31c3b3d0edd1cc"
+  },
+  {
+    "path": "data/attention_ablation_all_evidence_aggregate.csv",
+    "bytes": 2808,
+    "sha256": "d79c2ff4039525a25fda3952d61e38101802bc210d780a74faa18a56a98abcae"
+  },
+  {
+    "path": "data/attention_mechanism_cache.json",
+    "bytes": 1350,
+    "sha256": "39e65574512db9987772b24603efb128c1a1fa5672495eb4f6abb0e781cf7868"
+  },
+  {
+    "path": "data/attention_mechanism_cache.npz",
+    "bytes": 166281,
+    "sha256": "f58471d73b171728606825ef479422d7458d5afcda93a0136d712832ff8bfc7c"
+  },
+  {
+    "path": "data/attention_mechanism_seed42_per_cell_long.csv",
+    "bytes": 4992,
+    "sha256": "f5e0740ed5f596cdb4f8d6514101565b9201fecf77e5732619ec6d53fca02bfd"
+  },
+  {
+    "path": "data/attention_mechanism_seed42_stage_interpretability_long.csv",
+    "bytes": 3354,
+    "sha256": "91dafcb03ac55f41eb965848d8d36e9f9dd19e7e214cc7b488a9da6a4eb3cf84"
+  },
+  {
+    "path": "data/fig4_5a_effect_map_source.csv",
+    "bytes": 1934,
+    "sha256": "5f20369b2609262587f69b2b76e0d9f0693a8e44b187b7bf8d2c93f76a8978c4"
+  },
+  {
+    "path": "data/fig4_5b_stage_profile_pentagon_source.csv",
+    "bytes": 2322,
+    "sha256": "06f1a59226ba2dc75248f416d5f96ce8cdabdb0b19dc636dd6fb9904722dd632"
+  },
+  {
+    "path": "data/fig4_5b_stage_radar_source.csv",
+    "bytes": 1431,
+    "sha256": "b3808ed12843d3f738816f4cae380c9eca96096172807a88b7937cbf483f4046"
+  },
+  {
+    "path": "data/fig4_5c_multiseed_cell_violin_source.csv",
+    "bytes": 10421,
+    "sha256": "7847c8f837083b49d2cb49af871a027be8512eb60256378ccf861ae7a5c8feb5"
+  },
+  {
+    "path": "data/fig4_5c_multiseed_seed_points_source.csv",
+    "bytes": 1664,
+    "sha256": "954d81c797f35408f844dec868019f9b045333f0457a0173a1d2025ae90471bc"
+  },
+  {
+    "path": "data/mechanism_tables/attention_weighted_stage_centers.csv",
+    "bytes": 477,
+    "sha256": "27e7dca4bec46ab776d011d1b4bb3c9bb2b8da958711b820868fb2f69b266a50"
+  },
+  {
+    "path": "data/mechanism_tables/late_stage_top_attention_curve_tokens.csv",
+    "bytes": 22136,
+    "sha256": "a16b00f68249544ef7a3efb49b56c7aa69d706cc2ca01e56fb2efe326aa8e0e8"
+  },
+  {
+    "path": "data/mechanism_tables/stage_attention_profiles.csv",
+    "bytes": 2325,
+    "sha256": "3d970db0a908a4786564d2ccb6b16ed8f5285d31104ea62915637a26709d163e"
+  },
+  {
+    "path": "data/mechanism_tables/temperature_entropy_by_cycle_bin.csv",
+    "bytes": 791,
+    "sha256": "716bf22721763c8e4adc65229c4fee88a96710e5c3fa06891f36900f8b59f1f3"
+  },
+  {
+    "path": "NEW_WINDOW_PROMPT.md",
+    "bytes": 1702,
+    "sha256": "dbf68691aa5f379c72ad2b10477350325cf7c52654c033cb2b13c6302d17a459"
+  },
+  {
+    "path": "originals/figures/fig01_batch10_mechanism_ablation_radar_small_multiples.png",
+    "bytes": 390842,
+    "sha256": "b40b846361933f7987210517ac8a5ffd9e61587aea7fd4a32a095e808c8b91b3"
+  },
+  {
+    "path": "originals/figures/fig02_adaptive_v1_seed42_per_cell_rmse_mae.png",
+    "bytes": 99210,
+    "sha256": "6c15f0990ffc4cd4b925f736cb059d2462108a268c56b8adb31b65c5d8afc00f"
+  },
+  {
+    "path": "originals/figures/fig03_batch10_final_model_prediction_curves.png",
+    "bytes": 242603,
+    "sha256": "15eea4ba1f4cb241e21846d0637d4bc48169b48e1865e1aa36d4729844e312b1"
+  },
+  {
+    "path": "originals/figures/fig04_three_seed_attention_mechanism_summary.png",
+    "bytes": 109563,
+    "sha256": "cf1bcb116b019ef896e4879f20cdf539595522145fb584a7075ac87e73014961"
+  },
+  {
+    "path": "originals/figures/fig05_seed42_attention_stage_interpretability.png",
+    "bytes": 245753,
+    "sha256": "fdbed5f7122e0a7ec562ede7778f9f7b88061dc50f17934f0bb48e9df3a8ddab"
+  },
+  {
+    "path": "originals/figures/fig06_adaptive_attention_mechanism_response_surface.png",
+    "bytes": 898693,
+    "sha256": "b87358d2500221ceed70e85adec765fd20178d880f02fa2f034799cb3d9b80ae"
+  },
+  {
+    "path": "originals/figures/fig4_5a_ablation_static_mmd_effect_map.pdf",
+    "bytes": 44832,
+    "sha256": "22379a1e081371c1fbd9551d2f2659cc4f7354c9d8f222be01a37cffeeeb06b0"
+  },
+  {
+    "path": "originals/figures/fig4_5a_ablation_static_mmd_effect_map.png",
+    "bytes": 295514,
+    "sha256": "41676d3e7911bbfbd11f4498582aa7b742590191e709c46a702e076d98a7e0bd"
+  },
+  {
+    "path": "originals/figures/fig4_5b_stagewise_rmse_radar.pdf",
+    "bytes": 77619,
+    "sha256": "b236cd0ba37acf2e658eccf69646d9a1de785d47dca86287602b1f3b17d071ab"
+  },
+  {
+    "path": "originals/figures/fig4_5b_stagewise_rmse_radar.png",
+    "bytes": 1112549,
+    "sha256": "58e4e92c13897208a2dce4e981b725966d1bda0bd5e888c41302a56314665624"
+  },
+  {
+    "path": "originals/figures/fig4_5b_stagewise_rmse_radar_horizontal.pdf",
+    "bytes": 77533,
+    "sha256": "8f2435d83a8aacc416bc8db4463775b68503710361783996fa77819f7c205e05"
+  },
+  {
+    "path": "originals/figures/fig4_5b_stagewise_rmse_radar_horizontal.png",
+    "bytes": 1011127,
+    "sha256": "a2b5ba1021efa24e1308f4a09baabefdbb127db07eab175c473cf8f990c5aacc"
+  },
+  {
+    "path": "originals/figures/fig4_5c_multiseed_stability_violin.pdf",
+    "bytes": 53475,
+    "sha256": "7bc60d0031f796f6dd522239228ae9be76a3da5efc7d180a34a9786c3ca169cb"
+  },
+  {
+    "path": "originals/figures/fig4_5c_multiseed_stability_violin.png",
+    "bytes": 428772,
+    "sha256": "b0c29a69be685bd3ab27199c09ad1c733bfd18e9658b66238e414caf1270ec7e"
+  },
+  {
+    "path": "originals/notes/fig06_attention_mechanism_caption_text_zh.txt",
+    "bytes": 1047,
+    "sha256": "10e212947da7fb9263ba8e2d5928daecdbf62ece2ed59ae9ef89362515a2d882"
+  },
+  {
+    "path": "originals/notes/SECTION_4_5_NEW_ATTENTION_FIGURE_NOTES_20260729.md",
+    "bytes": 915,
+    "sha256": "ea32dff3aeb2335e32c35de6abc6a244f146df74a02d2e58c3917ae2fc01c988"
+  },
+  {
+    "path": "originals/notes/SECTION_4_5_REVISED_TEXT_AND_CAPTIONS_20260729.md",
+    "bytes": 6284,
+    "sha256": "476af1177acf110900a50bebd512b5dd5226ddab0b3f5ae8ef3130df443606e0"
+  },
+  {
+    "path": "originals/scripts/plot_adaptive_attention_mechanism_response_surface.py",
+    "bytes": 19249,
+    "sha256": "dea51cc8bac6ccd88029ed924a71f8c19440a17f4529258110411af48bd1c323"
+  },
+  {
+    "path": "originals/scripts/plot_section4_5_new_attention_ablation_figures.py",
+    "bytes": 25550,
+    "sha256": "babdb8bd8edf230d7308541604d6281175bceaf3b2eda115fe88cd9746f106ef"
+  },
+  {
+    "path": "originals/scripts/plot_stagewise_pentagon_radar_reference_style.py",
+    "bytes": 9844,
+    "sha256": "86d5d5e68b701add2d9c078ad2b8ae6de62eb61cc07350f80547e6d82aa144b6"
+  },
+  {
+    "path": "originals/scripts/visualize_attention_mechanism_ablation_v1.py",
+    "bytes": 16395,
+    "sha256": "2d0ddbec47361f5df09958a1ffd07c3e82e795ef4280b0331fb989c500142f5f"
+  },
+  {
+    "path": "outputs/ablation_effect_map.layout.json",
+    "bytes": 230,
+    "sha256": "5848bea00c359b739f2c8b8d18c9f040e1186d2891875439139ac823a0eece9b"
+  },
+  {
+    "path": "outputs/ablation_effect_map.pdf",
+    "bytes": 43236,
+    "sha256": "51c4e08644f3ddb6c1e93ec500f9eaa0ca361cfbe719c3504bc592e3e00c1875"
+  },
+  {
+    "path": "outputs/ablation_effect_map.png",
+    "bytes": 251983,
+    "sha256": "4b21cfc61eb5030531d030294f0524955566005906926c1a393cb1b528913810"
+  },
+  {
+    "path": "outputs/ablation_effect_map.svg",
+    "bytes": 41537,
+    "sha256": "a7be3bc0aa6d95f3cbef3af7e3056ea7ecd26d63b8f52e1454af3141efd90df0"
+  },
+  {
+    "path": "outputs/attention_mechanism.layout.json",
+    "bytes": 231,
+    "sha256": "bcc8a030e4db21da984e90069ebc4e9b74a830871a57b7706deada124f79d1d6"
+  },
+  {
+    "path": "outputs/attention_mechanism.pdf",
+    "bytes": 123599,
+    "sha256": "fd082c20c7dfcffa46eb16a9ed2a59d25acebb4388cbeef0c65ae6700387e8bf"
+  },
+  {
+    "path": "outputs/attention_mechanism.png",
+    "bytes": 979304,
+    "sha256": "5f0bc150f6478993440926d0858ace607880c757cd7dc2d93ab5008079717e85"
+  },
+  {
+    "path": "outputs/attention_mechanism.svg",
+    "bytes": 414590,
+    "sha256": "bf74c84d16607e83f9a8f8bcf4bc5f2f05e481ee1643dc20920351cb545392fe"
+  },
+  {
+    "path": "outputs/bar_error_labels.layout.json",
+    "bytes": 230,
+    "sha256": "12f16b7584e0281a58028d73c3cb890e4a8dddcbe9932fc65514f7084ad058f5"
+  },
+  {
+    "path": "outputs/bar_error_labels.pdf",
+    "bytes": 37157,
+    "sha256": "89d7a7c398a99c1a6bc51a42989b2ac76e3edcab56c2e704bc9f13c51bcbacaa"
+  },
+  {
+    "path": "outputs/bar_error_labels.png",
+    "bytes": 260432,
+    "sha256": "e3003b412987ceb7d254470d825b1f210e9670f4f38e874b714c1b3ad9c8a64d"
+  },
+  {
+    "path": "outputs/bar_error_labels.svg",
+    "bytes": 18687,
+    "sha256": "af2edd3b75a79ef776f7dcd6cd7691748a25ffc8faa2807cd0cfe0550722c11c"
+  },
+  {
+    "path": "outputs/cell_seed_violin.layout.json",
+    "bytes": 230,
+    "sha256": "a1a408428e4749a99b8f17bc435ff293404b8284fd407d085edd543be4320af1"
+  },
+  {
+    "path": "outputs/cell_seed_violin.pdf",
+    "bytes": 54769,
+    "sha256": "87c2240f7f904a4ffa97e1a832a6568af6dbdaa512e3082856c250bfc97d0550"
+  },
+  {
+    "path": "outputs/cell_seed_violin.png",
+    "bytes": 482998,
+    "sha256": "2e00948e71195ca67adad80a244c9e18ec684fdf653b869208a6b201629c5647"
+  },
+  {
+    "path": "outputs/cell_seed_violin.svg",
+    "bytes": 88609,
+    "sha256": "de117d910fcd436bd07d3c3d643e42c11a31a3ee9208d2a82f4370a0791e6136"
+  },
+  {
+    "path": "outputs/per_cell_error.layout.json",
+    "bytes": 230,
+    "sha256": "43ed2bc7d8e305ec1daa482b7b19bfafac57c6892133d48545286bf843a95f5e"
+  },
+  {
+    "path": "outputs/per_cell_error.pdf",
+    "bytes": 26828,
+    "sha256": "70a21311b4ec7c9ed69243150234ca3873e79beed24978d403aaf3c5f810b8b3"
+  },
+  {
+    "path": "outputs/per_cell_error.png",
+    "bytes": 226675,
+    "sha256": "e1cdffc47e91fc783c254b11f2a8731c065effc697a0118b339a4a280e665574"
+  },
+  {
+    "path": "outputs/per_cell_error.svg",
+    "bytes": 20128,
+    "sha256": "fe8fe629761c0a9f89a383273be575288b11127057c9f46566fc17fcd3556fd5"
+  },
+  {
+    "path": "outputs/per_cell_polar_bars.layout.json",
+    "bytes": 231,
+    "sha256": "07417203d0279223b1f48edeae19d5c0bdbdc9f7a39ba47d4d8fc612f75dd121"
+  },
+  {
+    "path": "outputs/per_cell_polar_bars.pdf",
+    "bytes": 54530,
+    "sha256": "0d66f63e6837a24418faa9f82dcde7d5ff0d718035823fb32f23bc20db4c7bf5"
+  },
+  {
+    "path": "outputs/per_cell_polar_bars.png",
+    "bytes": 997244,
+    "sha256": "4c21bd4fe2ea77b879eff5181d582775abab620d76df453404b0b520cc17d79c"
+  },
+  {
+    "path": "outputs/per_cell_polar_bars.svg",
+    "bytes": 155277,
+    "sha256": "e549d21b114d07dcd8404e229438f7e104e9c81c01d2e9c85807bd5a9dbc1dc2"
+  },
+  {
+    "path": "outputs/prediction_curves.layout.json",
+    "bytes": 230,
+    "sha256": "f6069831fee3f8dd552848227a1826e5688bdf002100ca08006ea9c31d8d0fbe"
+  },
+  {
+    "path": "outputs/prediction_curves.pdf",
+    "bytes": 172765,
+    "sha256": "ca3d77e877e2413b209b9f06ef571952645b7e5cbad47dc6006829aeac4a7bca"
+  },
+  {
+    "path": "outputs/prediction_curves.png",
+    "bytes": 603052,
+    "sha256": "9e91d143c7badc15ba880fb862e9b94997ec74a6f3878da395fb519198d5c5cf"
+  },
+  {
+    "path": "outputs/prediction_curves.svg",
+    "bytes": 416342,
+    "sha256": "d0cb5af16ef7c7a69ab44603a902927f01411a3cf7e7ead1f5de13643414d19b"
+  },
+  {
+    "path": "outputs/radar_horizontal.layout.json",
+    "bytes": 230,
+    "sha256": "56163d315efb750a725e2762fec62fe06bbc15bf6267903fbea007d0bcd82e7b"
+  },
+  {
+    "path": "outputs/radar_horizontal.pdf",
+    "bytes": 51188,
+    "sha256": "5891e8e53c61d51e1dd3267c83b4bfbdeb7bee9d64a8ef1cfcaff8be155adb1b"
+  },
+  {
+    "path": "outputs/radar_horizontal.png",
+    "bytes": 1115280,
+    "sha256": "b8def3e456dc36c6d04994b795e5b51d9b321279e3e3d138386e10b7c7e6ab6a"
+  },
+  {
+    "path": "outputs/radar_horizontal.svg",
+    "bytes": 80973,
+    "sha256": "53c6595d0d0da6a981e6ed6bbb42cb7c8baa691dbaebf48e4c65394135439929"
+  },
+  {
+    "path": "outputs/radar_vertical.layout.json",
+    "bytes": 230,
+    "sha256": "56163d315efb750a725e2762fec62fe06bbc15bf6267903fbea007d0bcd82e7b"
+  },
+  {
+    "path": "outputs/radar_vertical.pdf",
+    "bytes": 51185,
+    "sha256": "52fa133e535865fbc330be69d0aadfc54825a09499acfb5f490e8ca45bee401b"
+  },
+  {
+    "path": "outputs/radar_vertical.png",
+    "bytes": 1086000,
+    "sha256": "30c3cdf69d6dd1d237dbbb81fabf21db5b3aa2bae050db53e9d1baef1a512876"
+  },
+  {
+    "path": "outputs/radar_vertical.svg",
+    "bytes": 81025,
+    "sha256": "54b427e3cf22bc7e37a3f2e3bfa51ee4f2daf9605bd10d43d17eeb03fcae2a42"
+  },
+  {
+    "path": "provenance.json",
+    "bytes": 11830,
+    "sha256": "60363945c7bae9f1bbf76215742ae628ad40acb5e8770609e4138b1ff9887da5"
+  },
+  {
+    "path": "qa/portability.json",
+    "bytes": 930,
+    "sha256": "f0de8433d4d65ec4da84af66e841e22fac045a9f04b89c990f3f2b72d0e5a48d"
+  },
+  {
+    "path": "qa/REVIEW.md",
+    "bytes": 2800,
+    "sha256": "02f7b58bb97cbcf0ee56ad00621d3e5914268036b9b9716a292ef114b2e6922a"
+  },
+  {
+    "path": "README.md",
+    "bytes": 8464,
+    "sha256": "2f4adaa7671a91894f8b7e5ecc49fe0f0e32199ff2e35e280cb62310a5f3374b"
+  },
+  {
+    "path": "references/CAPTIONS_AND_NOTES.md",
+    "bytes": 4009,
+    "sha256": "98bbc623f3731ca239b72a43ab5c6bb7cb02bcf27f53971cd40c5af319d651ae"
+  },
+  {
+    "path": "references/DATA_AND_PROVENANCE.md",
+    "bytes": 6113,
+    "sha256": "2e14ddf40c5832143a915eb5f0cd85ddb567c9eefd23f7b723c652d1876dd9b1"
+  },
+  {
+    "path": "references/FIGURE_CATALOG.md",
+    "bytes": 3612,
+    "sha256": "c7d6b9b446f7e50a09962c3c429f190d56e6347e029446b71aede17051e69b0a"
+  },
+  {
+    "path": "references/QUALITY_CHECKLIST.md",
+    "bytes": 2652,
+    "sha256": "81d2e59cbfc6f5f620f27c3a4047006c957275e8f8f4d9013c023899cfdf533b"
+  },
+  {
+    "path": "references/STYLE_GUIDE.md",
+    "bytes": 5746,
+    "sha256": "b3fb48efa7127169f2413fc426a364ddc71174d678a40750cc29ba43083a4651"
+  },
+  {
+    "path": "references/USER_REQUIREMENTS.md",
+    "bytes": 5945,
+    "sha256": "1480f9380075db8ae2c347883bb362590f8c83635fd41bcf919a60fa2b6fd717"
+  },
+  {
+    "path": "requirements.txt",
+    "bytes": 212,
+    "sha256": "d36606b8ddf5bb0844e86f55c23e063bf0ccf9e050cf67251d6fc03cf80f8869"
+  },
+  {
+    "path": "scripts/bundle_sources.py",
+    "bytes": 3706,
+    "sha256": "f8f982ba29ed22a0dc965d2f2a0610ef6fed0e1d6d1c9ff571991be16f11c200"
+  },
+  {
+    "path": "scripts/export_mechanism_cache.py",
+    "bytes": 5290,
+    "sha256": "9c0b6fcdc581e4d2e3380452ed0636ef78953526a408aa7838a382b1b2ee8fa5"
+  },
+  {
+    "path": "scripts/figure_style.py",
+    "bytes": 6334,
+    "sha256": "d3f68a98a4eceb6be01e3132d11370372511afe7ff8298f847f06632cecc1862"
+  },
+  {
+    "path": "scripts/package_zip.py",
+    "bytes": 1218,
+    "sha256": "489047f5be9b253d5663f2ae0bb90aa3d82b97f604dbe66c0366084b77ab1890"
+  },
+  {
+    "path": "scripts/render_figures.py",
+    "bytes": 17990,
+    "sha256": "949009358e6521a2b58e4ef1154796f06d42efb344e914cd772b0043f34c5aef"
+  },
+  {
+    "path": "scripts/smoke_portability.py",
+    "bytes": 1922,
+    "sha256": "7432430f5a3e617cffdc5a1b02b677ef8b92c7762187859fb97af345f6fdcd48"
+  },
+  {
+    "path": "scripts/verify_bundle.py",
+    "bytes": 6600,
+    "sha256": "0c0c456a83c3f46c6acf7b434711e022390265a7883e1bade8d3db9a5435d1b4"
+  },
+  {
+    "path": "SKILL.md",
+    "bytes": 3938,
+    "sha256": "18b5d22a96d04942b0d512f3ee2fa8a4b99ca535f3a15630a8e08f1648c8161a"
+  },
+  {
+    "path": "style.json",
+    "bytes": 747,
+    "sha256": "9bf03f21e27811c89146fdf83df97f8d1fde9958693a1b21b6ea524262643153"
+  }
+]
